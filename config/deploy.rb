@@ -3,13 +3,13 @@ lock '3.4.1'
 
 
 set :application, 'projetolattes'
-set :repo_url, 'git@github.com:lattesproject/projetolattes.git'
+set :repo_url, 'git@github.com:lattesproject/lapaqpjlattes.git'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
 # Default deploy_to directory is /var/www/my_app_name
-set :deploy_to, '/home/deploy/projetolattes'
+set :deploy_to, '/home/lapaq/projetolattes'
 
 # Default value for :scm is :git
 # set :scm, :git
